@@ -1,5 +1,6 @@
 {
   "name": "mcp-tax-calc",
+  "repository": {"type": "git", "url": "theluckystrike/mcp-tax-calc.git"},
   "version": "1.0.0",
   "description": "MCP server: tax-calc",
   "type": "module",
